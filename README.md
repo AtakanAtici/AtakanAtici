@@ -22,6 +22,6 @@
 ## 📫 How to Reach Me
 
 
-[![Linkedin Badge](https://img.shields.io/badge/utkuglsvn-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/atakan-atici-a0445b177/)
+[![Linkedin Badge](https://img.shields.io/badge/atakan-atici-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/atakan-atici-a0445b177/)
 
 
