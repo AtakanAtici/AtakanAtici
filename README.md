@@ -11,7 +11,6 @@
 ## 📫 How to Reach Me
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/atakan_dev)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atakanatici/)
-[![](https://img.shields.io/github/followers/atakanatici?style=social)](https://www.github.com/atakanatici)
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ata.atici)
 [![Mail Badge](https://img.shields.io/badge/Mail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:atakanatici0@gmail.com)](mailto:atakanatici0@gmail.com)
 
