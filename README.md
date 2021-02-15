@@ -8,22 +8,13 @@
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtakanAtici&layout=compact&hide=html,css" alt="My Top Langs" />
 </p>
 
-
-## 📚 Learning & Interested
-
-
-<code><img height="75" src="https://user-images.githubusercontent.com/67654900/97544979-651f1480-19db-11eb-91f5-95289567e64e.png"></code>
-<code><img height="75" src="https://user-images.githubusercontent.com/67654900/104649926-7f0cf100-56c6-11eb-92f6-3fc91a311020.png"></code>
-<code><img height="75" src="https://user-images.githubusercontent.com/67654900/104650047-afed2600-56c6-11eb-95f3-b64f9440570d.jpg"></code>
-<code><img height="75" src="https://user-images.githubusercontent.com/67654900/97544813-2ee19500-19db-11eb-8eb6-68a37eb1d262.png"></code>
-
-
-
-
-
 ## 📫 How to Reach Me
+[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/atakan_dev)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atakanatici/)
+[![](https://img.shields.io/github/followers/atakanatici?style=social)](https://www.github.com/atakanatici)
+[![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ata.atici)
+[![Mail Badge](https://img.shields.io/badge/Mail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:atakanatici0@gmail.com)](mailto:atakanatici0@gmail.com)
 
 
-(https://www.linkedin.com/in/atakan-atici-a0445b177/)
 
 
