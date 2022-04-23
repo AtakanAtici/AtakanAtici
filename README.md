@@ -13,6 +13,8 @@
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ata.atici)
 [![Mail Badge](https://img.shields.io/badge/Mail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:atakanatici0@gmail.com)](mailto:atakanatici0@gmail.com)
 
+![Profile views](https://gpvc.arturio.dev/ridvanucdag) 
+
 
 
 
